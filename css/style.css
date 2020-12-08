@@ -2,3 +2,19 @@
     width: 220px;
     height: 80px;
 }
+
+.navbar{
+    background-color: #298A08;
+}
+
+.quemsomos{
+    background-color:lightblue;
+}
+
+.margin{
+    padding: 15px 0;
+}
+
+.equipe{
+    width: 400px;
+}
