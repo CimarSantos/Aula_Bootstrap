@@ -1,3 +1,7 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 .logoGL{
     width: 220px;
     height: 80px;
@@ -11,10 +15,35 @@
     background-color:lightblue;
 }
 
+.quemsomos h4{
+    margin-top: 8px;
+}
+
 .margin{
     padding: 15px 0;
 }
 
 .equipe{
     width: 400px;
+}
+
+.parceiros{
+    background-color: lightseagreen;
+}
+
+.parceiros img{
+    width: 100%;
+}
+
+.serviços img{
+    width: 100%;
+}
+
+.serviços p{
+    margin: 15px;
+}
+
+.bg-footer{
+    background-color: black;
+    color: blanchedalmond;
 }
